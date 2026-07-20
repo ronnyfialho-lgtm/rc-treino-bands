@@ -54,3 +54,63 @@ Pessoas que treinam em casa utilizando:
 - IA integrada.
 - Biblioteca completa de exercícios.
 - Progressão automática.
+
+
+# 2. Problema
+
+## Problema principal
+
+Atualmente, pessoas que treinam em casa encontram dificuldades para:
+
+- organizar seus treinos;
+- acompanhar a evolução;
+- registrar séries e repetições;
+- controlar o tempo de descanso;
+- encontrar exercícios específicos para elásticos de resistência;
+- manter a motivação.
+
+A maioria dos aplicativos existentes é focada em academias e não oferece uma experiência otimizada para quem utiliza Super Bands, Mini Bands e outros equipamentos domésticos.
+
+---
+
+# 3. Objetivos do Produto
+
+## Objetivo Geral
+
+Criar o melhor aplicativo para treinos com elásticos de resistência, oferecendo uma experiência intuitiva, organizada e personalizada.
+
+## Objetivos específicos
+
+- Organizar treinos.
+- Registrar histórico.
+- Controlar descanso.
+- Mostrar a execução correta dos exercícios.
+- Adaptar os treinos conforme os equipamentos disponíveis.
+- Acompanhar a evolução do usuário.
+- Utilizar Inteligência Artificial para recomendações.
+
+---
+
+# 4. Público-alvo
+
+## Perfil Principal
+
+Homens e mulheres entre 18 e 65 anos que treinam em casa.
+
+### Equipamentos utilizados
+
+- Super Bands
+- Mini Bands
+- Bola Suíça
+- Ab Wheel
+- Peso Corporal
+- Corda
+- Halteres
+
+### Objetivos
+
+- Hipertrofia
+- Emagrecimento
+- Condicionamento físico
+- Saúde
+- Mobilidade
