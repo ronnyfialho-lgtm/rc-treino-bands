@@ -114,3 +114,95 @@ Homens e mulheres entre 18 e 65 anos que treinam em casa.
 - Condicionamento físico
 - Saúde
 - Mobilidade
+
+
+# 5. Escopo do MVP (Versão 1)
+
+O MVP (Minimum Viable Product) terá apenas as funcionalidades essenciais para que o usuário consiga realizar seus treinos e acompanhar sua evolução.
+
+## Funcionalidades incluídas
+
+### Autenticação
+- Login com Google
+- Cadastro de perfil
+
+### Perfil do Usuário
+- Nome
+- Altura
+- Peso
+- Objetivo
+- Nível de experiência
+
+### Equipamentos
+O usuário informará quais equipamentos possui.
+
+Exemplos:
+- Super Bands
+- Mini Bands
+- Bola Suíça
+- Ab Wheel
+- Corda
+- Halteres
+- Banco
+
+### Treinos
+- Treino A
+- Treino B
+- Treino C
+
+Cada treino conterá:
+- Exercícios
+- Séries
+- Repetições
+- Tempo de descanso
+- Observações
+
+### Execução do treino
+
+Durante o treino o usuário poderá:
+
+- Marcar séries concluídas
+- Iniciar cronômetro de descanso
+- Visualizar vídeo do exercício
+- Consultar instruções
+
+### Histórico
+
+Registrar:
+
+- Data
+- Duração
+- Treino realizado
+
+---
+
+# 6. Funcionalidades Futuras
+
+Estas funcionalidades não farão parte do MVP.
+
+## Inteligência Artificial
+
+- Sugestão automática de progressão
+- Treinos personalizados
+- Recomendações conforme equipamentos
+- Ajuste automático do treino
+
+## Estatísticas
+
+- Evolução do peso
+- Evolução das medidas
+- Dias consecutivos
+- Tempo total treinado
+
+## Gamificação
+
+- Medalhas
+- Conquistas
+- Níveis
+- Sequência de treinos
+
+## Comunidade
+
+- Compartilhamento de treinos
+- Ranking
+- Desafios
