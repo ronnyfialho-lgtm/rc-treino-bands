@@ -53,3 +53,41 @@ Botões, cores e componentes deverão manter o mesmo padrão em todas as telas.
 - contraste adequado
 - botões grandes
 - suporte ao modo escuro
+
+# 2. Fluxo Principal
+
+O fluxo principal do usuário será:
+
+Splash
+
+↓
+
+Login
+
+↓
+
+Home
+
+↓
+
+Selecionar treino
+
+↓
+
+Executar treino
+
+↓
+
+Descanso
+
+↓
+
+Próximo exercício
+
+↓
+
+Finalizar treino
+
+↓
+
+Histórico
